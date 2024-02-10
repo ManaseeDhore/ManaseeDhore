@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManaseeDhore
-- 👀 I’m interested in biomedical engineering as well as business management
--  I’m currently learning in 3rd year of biomedical engineering at Central Univesity od Rajasthan
+- 👀 I’m interested in biomedical engineering as well as business management.
+-  I’m currently learning in 3rd year of Biomedical Engineering at Central Univesity of Rajasthan.
 -  I’m looking for an internship in biomedical engineering field.
 - 📫 How to reach me -  manaseedhore129@gmail.com
 
